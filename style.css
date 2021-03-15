@@ -1,0 +1,13 @@
+button {
+  border-radius: 10px;
+}
+#zero {
+  padding: 0 20px;
+}
+#buttons {
+  display: flex;
+}
+#operators-space {
+  display: flex;
+  flex-direction: column;
+}
